@@ -1,7 +1,0 @@
-<<<<<<< HEAD
-ABCD
-=======
-india
->>>>>>> dev
-Git practice session B
-Git practice session c
